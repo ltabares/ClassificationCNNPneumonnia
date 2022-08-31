@@ -1,0 +1,3 @@
+At the moment I wanto to learn about NN, specially CNN. So I decided to create this project.
+I took the data from Kaggel. There are  abot 4000 chet X-ray images, some of them are normal but others exibits bacteria o virus pneumonia. The task is classify them, 
+as normal o pneumonia.
